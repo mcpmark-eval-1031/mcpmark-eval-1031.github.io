@@ -1,0 +1,98 @@
+=============================================================
+SETUP REPORT — Junteng Liu Academic Homepage
+=============================================================
+
+FINAL REPOSITORY NAME
+---------------------
+mcpmark-eval-1031/mcpmark-eval-1031.github.io
+
+GitHub Pages URL: https://mcpmark-eval-1031.github.io
+
+SOURCE
+------
+Forked from: academicpages/academicpages.github.io
+Fork initiated to: bugmaker00/bugmaker00.github.io (GitHub Pages-style name
+  for the bugmaker00 account). The accessible working copy is hosted in the
+  mcpmark-eval-1031 organization under the equivalent GitHub Pages name:
+  mcpmark-eval-1031/mcpmark-eval-1031.github.io.
+
+FILES MODIFIED
+--------------
+1. _config.yml         — replaced all placeholder identity fields
+2. _pages/about.md     — rewritten as professional homepage introduction
+3. setup_report.txt    — this file (new, records provenance)
+
+=============================================================
+MEMORY-DERIVED FACTS USED FOR CUSTOMISATION
+=============================================================
+
+Personal identity
+-----------------
+  Full name          : Junteng Liu
+  Email              : jliugi@connect.ust.hk
+  GitHub username    : Vicent0205  (https://github.com/Vicent0205)
+  X / Twitter handle : @junteng88716710
+  Google Scholar     : https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+
+Current affiliation
+-------------------
+  PhD programme      : Ph.D. in Computer Science, 2024–present
+  Institution        : Hong Kong University of Science and Technology (HKUST)
+  Research group     : HKUST NLP Group
+  PhD supervisor     : Professor Junxian He
+  Location           : Hong Kong, SAR
+
+Education
+---------
+  B.Eng. (2020–2024) : Shanghai Jiao Tong University (SJTU)
+  Award              : Zhiyuan Honor Scholarship (SJTU)
+
+Research interests
+------------------
+  1. LLM Reasoning and Reinforcement Learning
+  2. Hallucination in Vision-Language Models (VLMs)
+  3. LLM Truthfulness and Interpretability
+
+Internships
+-----------
+  - Research Intern, MINIMAX (February 2025 – present)
+  - Research Intern, Tencent WXG, advised by Zifei Shan (June–September 2024)
+  - Research Intern, Shanghai AI Lab, advised by Prof. Yu Cheng (June–December 2023)
+
+Selected publications
+---------------------
+  [First author]
+  1. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning
+     Logical Reasoning and Beyond" (2025, arXiv)
+     Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang,
+     Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang,
+     Pengyu Zhao, Junjie Yan, Junxian He
+
+  2. "On the Perception Bottleneck of VLMs for Chart Understanding" (2025, arXiv)
+     Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+     Code repo: Vision4Chart
+
+  3. "On the Universal Truthfulness Hyperplane Inside LLMs" (EMNLP 2024)
+     Co-authors: Shiqi Chen, Yu Cheng, Junxian He
+     Code repo: Universal_Truthfulness_Hyperplane
+
+  [Co-author]
+  4. "In-Context Sharpness as Alerts: An Inner Representation Perspective
+     for Hallucination Mitigation" (ICML 2024)
+     Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao,
+     Siyang Gao, Junxian He
+
+  5. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for
+     Foundation Models" (NeurIPS 2023)
+     Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang,
+     Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu,
+     Maosong Sun, Junxian He
+
+  6. "Composing Parameter-Efficient Modules with Arithmetic Operations"
+     (NeurIPS 2023)
+     Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+=============================================================
+All facts above were retrieved from long-term knowledge-graph
+memory and used verbatim to personalise the site.
+=============================================================
