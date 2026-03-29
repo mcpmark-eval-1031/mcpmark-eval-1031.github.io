@@ -11,23 +11,26 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024 – Present  
+* **Ph.D. in Computer Science** (2024 – Present)  
+  Hong Kong University of Science and Technology (HKUST)  
   Advisor: [Prof. Junxian He](https://jxhe.github.io/) · HKUST NLP Group
-* **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 – 2024  
-  *Zhiyuan Honor Scholarship*
+
+* **B.Eng.** (2020 – 2024)  
+  Shanghai Jiao Tong University (SJTU)  
+  *[Zhiyuan Honor Scholarship](https://zhiyuan.sjtu.edu.cn/) recipient*
 
 ---
 
 ## Research Experience
 
-* **Research Intern**, MiniMax, Feb 2025 – Present  
-  Working on LLM reasoning and reinforcement learning.
+* **Research Intern**, [MiniMax](https://www.minimaxi.com/) (February 2025 – Present)  
+  Research on large language model reasoning and reinforcement learning.
 
-* **Research Intern**, Tencent WXG, Jun 2024 – Sep 2024  
-  Advisor: Zifei Shan
+* **Research Intern**, Tencent WXG (June 2024 – September 2024)  
+  Advisor: Zifei Shan — Research on vision-language models and chart understanding.
 
-* **Research Intern**, Shanghai AI Lab, Jun 2023 – Dec 2023  
-  Advisor: Prof. Yu Cheng
+* **Research Intern**, [Shanghai AI Lab](https://www.shlab.org.cn/) (June 2023 – December 2023)  
+  Advisor: Prof. Yu Cheng — Research on LLM truthfulness and interpretability.
 
 ---
 
@@ -41,7 +44,8 @@ redirect_from:
 
 ## Awards & Honors
 
-* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University (2020–2024)
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University (2020 – 2024)  
+  Awarded to top undergraduate students in Zhiyuan College at SJTU.
 
 ---
 
@@ -49,4 +53,4 @@ redirect_from:
 
 * **Programming Languages:** Python, C++
 * **ML Frameworks:** PyTorch, Hugging Face Transformers, vLLM
-* **Research Topics:** LLM Reasoning, RLHF/RL for LLMs, VLM Hallucination, LLM Truthfulness & Interpretability
+* **Research Areas:** LLM Reasoning, Reinforcement Learning for LLMs, VLM Hallucination, LLM Truthfulness & Interpretability
